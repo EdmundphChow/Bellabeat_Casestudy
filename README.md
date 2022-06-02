@@ -26,7 +26,7 @@ sleepDay_merged.csv
 
 I have converted the date column of each csv to a compactable format before importing to the sql database.
 
-The sample size of the data is small (30 users) and the data is from 6 years ago, the dataset cannot represent the current population. The case study will only base on the 30 users at the time they took the servey.
+The sample size of the data is small (30 users) and the data is from 6 years ago, the dataset cannot represent the current population. The case study will only base on the 30 users at the time they took the survey.
 
 ## Data Analyze
 The data will be process and analyze through [sql](Bellabeat_Query.sql).
