@@ -29,7 +29,7 @@ The sample size of the data is small (30 users) and the data is from 6 years ago
 
 ## Data Analysis
 Data is analysis and visualize through Power Bi.
-Link to Power Bi report: [Bellabeat_Bi_report](Bellabeat Data Analysis Case Study.pbix)
+
 ![Sample Size of the data](bi2.PNG)
 ![Active Minutes](bi3.PNG)
 ![Total steps](bi4.PNG)
@@ -37,3 +37,4 @@ Link to Power Bi report: [Bellabeat_Bi_report](Bellabeat Data Analysis Case Stud
 ![calories on a day](bi6.PNG)
 ![Hours Asleep](bi7.PNG)
 ![Average steps](bi8.PNG)
+Link to Power Bi report: [Bellabeat Power Bi Report](BellabeatDataAnalysisCaseStudy.pbix)
