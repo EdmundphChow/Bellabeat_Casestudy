@@ -20,13 +20,20 @@ There are 18 csv files and we will be using the files named below:
 
 dailyActivity_merged.csv\
 hourlyCalories_merged.csv\
-hourlyIntensities_merged.csv\
 hourlySteps_merged.csv\
 sleepDay_merged.csv
 
-I have converted the date column of each csv to a compactable format before importing to the sql database.
+I have imported the 4 csv files into Power Bi.
 
 The sample size of the data is small (30 users) and the data is from 6 years ago, the dataset cannot represent the current population. The case study will only base on the 30 users at the time they took the survey.
 
-## Data Analyze
-The data will be process and analyze through [sql](Bellabeat_Query.sql).
+## Data Analysis
+Data is analysis and visualize through Power Bi.
+Link to Power Bi report: [Bellabeat_Bi_report](Bellabeat Data Analysis Case Study.pbix)
+![Sample Size of the data](bi2.PNG)
+![Active Minutes](bi3.PNG)
+![Total steps](bi4.PNG)
+![calories and steps](bi5.PNG)
+![calories on a day](bi6.PNG)
+![Hours Asleep](bi7.PNG)
+![Average steps](bi8.PNG)
