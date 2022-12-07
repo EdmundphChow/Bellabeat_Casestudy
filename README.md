@@ -2,9 +2,9 @@
 # Case Study: How Can a Wellness Technology Company Play It Smart?
 
 ## Case study Background
-This case Study is about Bellabeat, a high-tech manufacturer of health-focused products. By analyzing smart device finess data, it help unlock new growth opportunities for the company.
+This case Study is about Bellabeat, a high-tech manufacturer of health-focused products. By analyzing smart device fitness data, it help unlock new growth opportunities for the company.
 
-This case study will be foucsed on these 3 questions:
+This case study will be focused on these 3 questions:
 
 -What are some trends in smart device usages?\
 -How could these trends apply to Bellabeet customers?\
